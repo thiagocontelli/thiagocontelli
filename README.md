@@ -1,6 +1,6 @@
 # Hi! I'm, Thiago.
 
-Frontend Developer from Brazil! 💻
+Frontend Developer from São Paulo, Brazil! 💻
 
 
 ## You can find me here:
