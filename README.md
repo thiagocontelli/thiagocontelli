@@ -5,7 +5,6 @@ Frontend Developer from São Paulo, Brazil 🔥
 Always looking for knowledge . . . 🧠
 
 ## You can find me here:
-#
 
 <div>
   <a href="https://https://www.linkedin.com/in/thiagocontelli/"><img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%234285F4&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
