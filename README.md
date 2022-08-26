@@ -14,4 +14,4 @@ Always looking for knowledge . . . 🧠
 
 ## My technologies:
 <img style="width: 5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
-<img style="width: 4.5rem" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
+<img style="height: 4.5rem" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
