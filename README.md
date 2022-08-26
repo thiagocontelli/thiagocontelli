@@ -15,5 +15,5 @@ Always looking for knowledge . . . 🧠
 
 ## My technologies:
 #
-<img style="width: 5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
-<img style="width: 4.5rem" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
