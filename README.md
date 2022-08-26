@@ -1,32 +1,19 @@
-# Hi! I'm, Thiago.
+# Thiago Contelli
 
-Frontend Developer from São Paulo, Brazil! 💻
+Frontend Developer from São Paulo, Brazil 🔥
 
+Always looking for knowledge . . . 🧠
 
 ## You can find me here:
+#
 
 <div>
-  <a href="https://www.linkedin.com/in/thiagocontelli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:thiagocontellid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/thiagocontelli/"><img src="https://img.shields.io/static/v1?label=&message=linkedin&color=%234285F4&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="mailto:thiagocontellid@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=gmail&color=%23BB001B&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </div>
+<br>
 
-## My languages:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://github.com/thiagocontelli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagocontelli&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocontelli&layout=compact&langs_count=7&theme=gotham"/>
-</div>
- 
-##
-
-
-
+## My technologies:
+#
+<img style="width: 5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png">
+<img style="width: 4.5rem" src="https://www.svgrepo.com/show/303600/typescript-logo.svg">
