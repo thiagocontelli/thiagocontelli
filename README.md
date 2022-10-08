@@ -17,6 +17,6 @@ Always looking for knowledge . . . 🧠
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/REACT--NATIVE-282C34?style=for-the-badge&logo=react" alt="REACT-NATIVE">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=%23F0F0F0&style=for-the-badge&logo=styled-components" alt="styled-components">
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios" alt="axios">
+  <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=%23F0F0F0&style=for-the-badge&logo=styled-components" alt="styled-components">
 </div>
