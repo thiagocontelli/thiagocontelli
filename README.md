@@ -14,9 +14,9 @@ Always looking for knowledge . . . 🧠
 ## My technologies:
 
 <div>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/KOTLIN-3DDC84?style=for-the-badge&logo=KOTLIN" alt="KOTLIN">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/REACT--NATIVE-282C34?style=for-the-badge&logo=react" alt="REACT-NATIVE">
   <img src="https://img.shields.io/static/v1?label=&message=styled-components&color=%23F0F0F0&style=for-the-badge&logo=styled-components" alt="styled-components">
 </div>
