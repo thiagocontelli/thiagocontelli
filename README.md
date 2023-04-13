@@ -1,6 +1,6 @@
 # Thiago Contelli
 
-Frontend & Mobile Developer from São Paulo, Brazil 🔥
+Mobile Developer from São Paulo, Brazil 🔥
 
 Always looking for knowledge . . . 🧠
 
@@ -15,7 +15,7 @@ Always looking for knowledge . . . 🧠
 
 <div>
   <img src="https://img.shields.io/badge/KOTLIN-3DDC84?style=for-the-badge&logo=KOTLIN" alt="KOTLIN">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/REACT--NATIVE-282C34?style=for-the-badge&logo=react" alt="REACT-NATIVE">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
