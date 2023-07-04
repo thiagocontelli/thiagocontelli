@@ -14,7 +14,6 @@ Always looking for knowledge . . . 🧠
 ## My technologies:
 
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/KOTLIN-3DDC84?style=for-the-badge&logo=KOTLIN" alt="KOTLIN">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/REACT--NATIVE-282C34?style=for-the-badge&logo=react" alt="REACT-NATIVE">
