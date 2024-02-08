@@ -1,5 +1,3 @@
-# Thiago Contelli
-
 Mobile Developer from São Paulo, Brazil 🔥
 
 Always looking for knowledge . . . 🧠
