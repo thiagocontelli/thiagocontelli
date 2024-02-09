@@ -17,7 +17,3 @@ Always looking for knowledge . . . 🧠
   <img src="https://img.shields.io/badge/REACT--NATIVE-282C34?style=for-the-badge&logo=react" alt="REACT-NATIVE">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
-
----
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocontelli&layout=compact&langs_count=7&theme=tokyonight"/>
